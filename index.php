@@ -191,7 +191,7 @@
   });
 </script>
 
-<!--Successfully rejected-->
+<!--What i am going say, i don't know-->
 </body>
 
 
